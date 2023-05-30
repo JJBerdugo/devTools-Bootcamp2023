@@ -66,4 +66,4 @@ console.log(next_pal(188))*/
         }
     }
     mostrarAtaques(ataques)
-}*/
+}*//
