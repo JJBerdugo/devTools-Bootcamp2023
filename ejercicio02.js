@@ -61,7 +61,7 @@ function numeroGuardar(recibeNumero){
     //console.log(numeroTer)
     let imprimirNumero = '('+ numeroInicial + ')' + ' ' + numeroSec + '-' + numeroTer;
 
-return imprimirNumero;
+return imprimirNumero;// no se si este return esta funcionando
 }
 
 let enviar = "3216546544"// toco guardar en una variable pero sigo sin entender porque no puedo enviar el metodo con la info!!!
