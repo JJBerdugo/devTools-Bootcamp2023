@@ -23,5 +23,6 @@ function siguientePal (numero){
 }
 
 
+
 siguientePal();
 console.log(resultado);
