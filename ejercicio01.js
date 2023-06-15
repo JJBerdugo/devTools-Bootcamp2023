@@ -1,7 +1,5 @@
-let resultado
 
 function numPal(sumarUno){
-    //resultado = sumarUno;
     let cadena = sumarUno.toString();
     let reversa = cadena.split("").reverse().join("");
 
@@ -23,5 +21,5 @@ function siguientePal (numero){
 }
 
 
-siguientePal(102);
+siguientePal(115);
 console.log(resultado);
