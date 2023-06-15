@@ -49,4 +49,4 @@ function countNameRepetitions(names){
 
 let names = ["Juan", "Maria", "Pedro", "Juan", "mArIa","mArIa", "Maria", "caRlos", "Carlos", "CARLOS"];
 let result = countNameRepetitions(names);
-console.log(result)
+console.log(result);
