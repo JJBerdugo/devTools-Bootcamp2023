@@ -34,7 +34,7 @@ function countNameRepetitions(names){
       }
   }
   
-        let writeAsterisk = {}
+        let writeAsterisk = {};
     
     for(let name in nameCount){
 
