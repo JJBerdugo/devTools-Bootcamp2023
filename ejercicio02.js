@@ -14,15 +14,3 @@ return imprimirNumero;
 let enviar = "3216546544"
 imprimir = numeroGuardar(enviar)
 console.log(imprimir)
-
-function numPal(sumarUno){
-    let cadena = sumarUno.toString();
-    let reversa = cadena.split("").reverse().join("");
-
-    if ((cadena !== reversa)){
-        resultado = siguientePal(sumarUno)
-        
-    } else {
-    return sumarUno;
-}
-}
